@@ -68,6 +68,14 @@ cypress/reports/index.html
 
 Open it in your browser to view pass/fail results, charts, and screenshots of any failures.
 
+## Demo Video
+
+Cypress test run for Personal Information module:
+
+
+https://github.com/user-attachments/assets/3e01e326-0fbf-4486-9dfd-e0dc9c704766
+
+
 ## Cypress Cloud
 
 This project is connected to Cypress Cloud for recorded runs and analytics. To record a run:
